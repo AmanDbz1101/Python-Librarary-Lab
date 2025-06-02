@@ -14,7 +14,7 @@ This repository is created for the purpose of **learning and practicing differen
 The repository includes practice on libraries like:
 
 - Pydantic -> a Python library for data validation and settings management using Python type annotations.
-
+- Docker -> Not a Python library but a platform that allows us to build, package, and run applications in lightweight, portable containers.
 
 ## 🚫 Disclaimer
 
