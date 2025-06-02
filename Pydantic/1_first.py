@@ -1,4 +1,4 @@
-# pydantic was already installed in python 3.11
+# pydantic was already installed in python 3.11 (base of conda) only version 1 and upgraded to 2 
 
 from pydantic import BaseModel, EmailStr, AnyUrl, Field
 from typing import Dict, List # not required for python 3.9 and above
