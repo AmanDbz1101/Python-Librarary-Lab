@@ -1,0 +1,1 @@
+{"001": {"name": "John Doe", "age": 30, "height_cm": 175, "weight_kg": 70, "bmi": 22.86, "verdict": "Normal"}, "002": {"name": "Jane Smith", "age": 25, "height_cm": 160, "weight_kg": 60, "bmi": 23.44, "verdict": "Normal"}, "003": {"name": "Alex Johnson", "age": 40, "height": 200, "weight": 150, "bmi": 37.5, "verdict": "Obese"}}
